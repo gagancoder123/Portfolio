@@ -1,0 +1,6 @@
+.post button:hover{
+    background-color: tomato;
+}
+button:active{
+  background-color: aquamarine;
+}
